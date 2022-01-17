@@ -1,0 +1,16 @@
+#title {
+  font-size: 380%;
+  width: 50vmax;
+}
+
+.center {
+  margin: auto;
+  padding: auto;
+  text-align: center;
+}
+
+#image {
+  max-width: 60%;
+  height: auto;
+  display: block;
+}
